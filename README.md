@@ -4,4 +4,4 @@ Little reminder program
 - Removes tasks
 - Completes tasks
 - Reminder setup
-
+- Remind for mask
